@@ -1,0 +1,24 @@
+{
+    "status": "OK",
+    "status_det": "OK",
+    "data": {
+        "status": "OK",
+        "auth": "tqoqhjsduxeboevwdygxskmoucqiiyrt",
+        "user": {
+            "user_guid": "u0Duq510b5be91fa87e7e57a7971d9f8",
+            "first_name": "Gvp",
+            "last_name": "TEST",
+            "phone": "989036693759",
+            "username": "RTX_BOT",
+            "last_online": 1660086304,
+            "bio": "هعب",
+            "is_deleted": false,
+            "is_verified": false,
+            "online_time": {
+                "type": "Exact",
+                "exact_time": 1660086304
+            }
+        },
+        "timestamp": "1660146658"
+    }
+}
